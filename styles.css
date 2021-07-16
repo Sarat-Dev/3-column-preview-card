@@ -116,7 +116,7 @@ body{
     display: inline-block;
     position: absolute;
     top: 25px;
-    left: 157.5px;
+    left: 240px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     border-top-right-radius: 0px;
@@ -128,7 +128,7 @@ body{
     display: inline-block;
     position: absolute;
     top: 25px;
-    left: 532.5px;
+    left: 560px;
     padding-top: 0px;
 
   }
@@ -137,7 +137,7 @@ body{
     display: inline-block;
     position: absolute;
     top: 25px;
-    right: 157.5px;
+    right: 240px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 0px;
